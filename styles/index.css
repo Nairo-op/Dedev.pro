@@ -1,0 +1,24 @@
+body{
+    padding-top:60px ;
+}
+header{
+    margin-bottom: 0px;
+}
+.nav-bar{
+    position: fixed;
+    top:0px;
+    width: 100%;
+}
+footer{
+    background-color: white;
+    position: relative ;
+    bottom: 0px;
+}
+.bg-image-fix{
+    background-size: cover; 
+    background-position: center;
+}
+.car-img{
+    width: 100px;
+    border-radius: 20px;
+}
